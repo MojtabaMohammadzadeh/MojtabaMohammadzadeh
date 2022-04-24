@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MojtabaMohammadzadeh
 - 👀 I’m interested in Frontend development   
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on Frontend team
+- 🌱 I’m currently learning Python and blockchain 
+- 💞️ 
 - 📫 How to reach me +98 9152472032 
 
 <!---
