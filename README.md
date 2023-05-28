@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MojtabaMohammadzadeh
-- 👀 I’m junior Flutter developer and FrontEnd by Vuejs   
-- 🌱 I’m currently learning Python and blockchain 
+- 👀 I’m junior Flutter, React js and Laravel Developer  
+- 🌱 I’m currently learning Webassembly and Rust
 - 💞️ I'm trying to make my good product
 - 📫 How to reach me +98 9152472032 
 
